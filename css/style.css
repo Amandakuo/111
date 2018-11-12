@@ -10,7 +10,7 @@ html,body{
 body{
   background-color: #FDE4DF;
   border-top: solid 20px #E09200;
-  border-bottom: solid 10px #E09200;
+  border-bottom: solid 20px #E09200;
   overflow: hidden; 
 }
 .namecard{
